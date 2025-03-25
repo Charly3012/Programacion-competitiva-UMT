@@ -60,6 +60,7 @@ El objetivo principal de esta actividad es **analizar problemas** y estimar si n
 3. **(Opcional)** Si logras implementar y resolver el problema con código, ¡es un punto extra! Pero el enfoque principal es el análisis.  
 
 **Nota: Algunos de las soluciones ya se encuentran en esta carpeta del repositorio con el nombre del problema, de igual manera puedes aportar agregando tu solución**
+**[Soluciones](Soluciones)**
 
 ### 📌 Problemas  
 
