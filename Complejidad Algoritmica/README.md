@@ -28,13 +28,11 @@ En C++, una estimación de operaciones por segundo es aproximadamente:
 5e8 / 500,000,000 operaciones por segundo
 
 
-## 🧮 ¿Cómo calcular si entra en tiempo?  
-
 Para determinar si nuestro algoritmo es eficiente, usamos la siguiente fórmula:  
 
-\[
+$$
 \frac{\text{Tamaño máximo de entrada} \times \text{Complejidad del algoritmo}}{\text{Operaciones por segundo}}
-\]
+$$
 
 Si el resultado es menor o cercano a **1 segundo**, nuestro algoritmo probablemente será aceptado.  
 
@@ -42,11 +40,12 @@ Si el resultado es menor o cercano a **1 segundo**, nuestro algoritmo probableme
 
 Si tenemos un problema con **n = 10⁶** y nuestro algoritmo tiene **O(n log n)** de complejidad:  
 
-\[
+$$
 \frac{10^6 \times \log_2(10^6)}{5 \times 10^8} \approx \frac{10^6 \times 20}{5 \times 10^8} = \frac{2 \times 10^7}{5 \times 10^8} = 0.04 \text{ segundos}
-\]
+$$
 
-Este algoritmo es eficiente y entraría en tiempo.  
+Este algoritmo es eficiente y entraría en tiempo.
+
 
 ---
 
