@@ -1,5 +1,5 @@
 //Problem on OmegaUp: https://omegaup.com/arena/problem/Resta-Interminable
-
+//Complejidad del algorimo: O(1)
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -9,12 +9,11 @@ int main()
     cin.tie(NULL);
     cout.tie(NULL);
 
-    int a, b; 
+    //Nota: Ten en cuenta que a y b pueden llegar a ser 10^15
+    long long a, b; 
     cin >> a >> b;
 
-
-
-    cout << b << endl;
+    cout << b % a << endl;
 
     return 0;
 }
