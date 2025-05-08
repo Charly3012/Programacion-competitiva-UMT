@@ -23,5 +23,7 @@ Este método debería ser casi siempre el primer algoritmo o solución que consi
    Se generan todas las combinaciones, permutaciones o subconjuntos posibles.
 
 
-
+## 📚 Recursos extra
+- [Algorithms in C++](https://medium.com/data-science/algorithms-in-c-62b607a6131d)
+- 
 
