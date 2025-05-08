@@ -14,8 +14,8 @@ Además, hemos incluido una **plantilla base para programar** en competencias. P
 
 Actualmente, el repositorio cuenta con las siguientes secciones:  
 
-- **📂 [`Vectores`](Vectores)** 📊: Conceptos básicos, operaciones comunes y ejemplos de uso.  
-- **📂 [`Complejidad algorimica`](Complejidad%20Algoritmica)** ⏳: Análisis del rendimiento de los algoritmos y notación Big-O.  
+- **📂 [`Vectores`](Fundamentos/Basicos%20del%20lenguaje/Vectores)** 📊: Conceptos básicos, operaciones comunes y ejemplos de uso.  
+- **📂 [`Complejidad algorimica`](Fundamentos/Teoricos/Complejidad%20Algoritmica)** ⏳: Análisis del rendimiento de los algoritmos y notación Big-O.  
 
 Este repositorio seguirá creciendo con más temas y materiales. ¡Siéntete libre de contribuir! 🚀  
 
